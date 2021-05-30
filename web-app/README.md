@@ -1,0 +1,1 @@
+This is a web application which sends requests to REST API to search for places.

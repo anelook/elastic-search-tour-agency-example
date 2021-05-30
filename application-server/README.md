@@ -1,0 +1,1 @@
+NodeJS server to listen to GET and POST requests and communicate with ElasticSearch service 
